@@ -1,1 +1,2 @@
 This is first file created in GIT
+Modified in new location
